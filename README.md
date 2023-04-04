@@ -1,5 +1,6 @@
-# 💫 About Me:
-Web Programming with ASP.NET
+# 💫 Hi 👋, I'm Özcan , A passionate software developer from Turkey
+I’m currently working on Web Programming 
+I’m currently learning ASP.NET
 
 
 ## 🌐 Socials:
